@@ -6,10 +6,17 @@ an authenticated user. If a user is authenticated, it is possible to visit prote
 like account or admin pages whereas the latter is only accessible by authenticated users 
 with an admin role. You can consolidate all the routes of your application in 
 a well-defined src/constants/routes.js constants file:
+First
 (1) a sign up page (register page) and 
 (2) a sign in page (login page). 
+Second 
 (3) a landing page and 
 (4) a home page
+Third
+(5) account page, 
+(6) admin page
+Lastly
+(7) password forget page
 ###########################################################################################################
 */
 
